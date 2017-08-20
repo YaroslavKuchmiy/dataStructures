@@ -1,7 +1,6 @@
-package module1.lesson0;
+package module1.lesson.lesson0;
 
 import java.util.Iterator;
-import java.util.Arrays;
 
 public class Main {
 
