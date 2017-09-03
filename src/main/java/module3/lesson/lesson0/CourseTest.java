@@ -1,4 +1,4 @@
-package module3.lesson0;
+package module3.lesson.lesson0;
 
 import org.junit.Test;
 import java.util.ArrayList;

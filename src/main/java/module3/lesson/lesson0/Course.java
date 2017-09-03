@@ -1,4 +1,4 @@
-package module3.lesson0;
+package module3.lesson.lesson0;
 
 import java.util.List;
 import java.util.Date;
